@@ -4,7 +4,7 @@
 
 ## Overview
 
-Python desktop credit card calculator application which implements an MVP pattern with Tkinter user interface.
+Python desktop credit card interest calculator application which implements an MVP pattern with Tkinter user interface.
 
 The application is designed to allow the business objects and business logic to be reused with web or other user interface mediums.
 
